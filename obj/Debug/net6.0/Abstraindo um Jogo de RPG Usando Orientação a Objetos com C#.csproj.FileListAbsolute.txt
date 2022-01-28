@@ -1,0 +1,15 @@
+C:\Users\biazi\Desktop\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\bin\Debug\net6.0\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#.exe
+C:\Users\biazi\Desktop\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\bin\Debug\net6.0\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#.deps.json
+C:\Users\biazi\Desktop\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\bin\Debug\net6.0\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#.runtimeconfig.json
+C:\Users\biazi\Desktop\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\bin\Debug\net6.0\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#.dll
+C:\Users\biazi\Desktop\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\bin\Debug\net6.0\ref\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#.dll
+C:\Users\biazi\Desktop\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\bin\Debug\net6.0\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#.pdb
+C:\Users\biazi\Desktop\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\obj\Debug\net6.0\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#.csproj.AssemblyReference.cache
+C:\Users\biazi\Desktop\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\obj\Debug\net6.0\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biazi\Desktop\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\obj\Debug\net6.0\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#.AssemblyInfoInputs.cache
+C:\Users\biazi\Desktop\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\obj\Debug\net6.0\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#.AssemblyInfo.cs
+C:\Users\biazi\Desktop\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\obj\Debug\net6.0\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#.csproj.CoreCompileInputs.cache
+C:\Users\biazi\Desktop\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\obj\Debug\net6.0\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#.dll
+C:\Users\biazi\Desktop\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\obj\Debug\net6.0\ref\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#.dll
+C:\Users\biazi\Desktop\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\obj\Debug\net6.0\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#.pdb
+C:\Users\biazi\Desktop\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#\obj\Debug\net6.0\Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#.genruntimeconfig.cache
